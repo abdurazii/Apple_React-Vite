@@ -36,8 +36,8 @@ Make sure you have Node.js and npm installed on your machine.
 3. Running the Project:
 Start the development server with Vite:
 ```bash
-npm run dev
- ```
+   npm run dev
+    ```
 
 
 ### Technologies Used
