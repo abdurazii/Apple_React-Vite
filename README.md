@@ -28,23 +28,25 @@ Make sure you have Node.js and npm installed on your machine.
 
 
 2. Install dependencies:
-  ```bash
+   ```bash
    npm install
     ```
 
 
 3. Running the Project:
-Start the development server with Vite:
-```bash
+   
+   Start the development server with Vite:
+   
+   ```bash
    npm run dev
-    ```
-
+     ```
 
 ### Technologies Used
---**React.js** – UI framework
---**Vite** – Development and build tool
---**GSAP** – Animation library
---**Three.js** – 3D graphics library
+
+- **React.js** – UI framework
+- **Vite** – Development and build tool
+- **GSAP** – Animation library
+- **Three.js** – 3D graphics library
 
 
 
